@@ -1,0 +1,1 @@
+编写web.xml文件时，内容可以参考tomcat安装目录下webapps/example/WEB-INF/web.xml文件。url-pattern内的值一定要以斜杠"/"开头
