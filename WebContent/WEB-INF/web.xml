@@ -20,4 +20,13 @@
 		<servlet-name>TestServlet</servlet-name>
 		<url-pattern>/Test</url-pattern>
 	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>PageRedirct</servlet-name>
+		<servlet-class>servlet.PageRedirct</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>PageRedirct</servlet-name>
+		<url-pattern>/page</url-pattern>
+	</servlet-mapping>
 </web-app>
